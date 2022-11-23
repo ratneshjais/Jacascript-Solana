@@ -1,2 +1,2 @@
 # Jacascript-Solana
-Solana event
+Solana event 2022, Mumbai
